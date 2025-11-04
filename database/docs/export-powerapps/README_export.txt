@@ -1,1 +1,0 @@
-Coloque aqui o pacote exportado do Power Apps (.zip) após exportar do ambiente Power Platform.
